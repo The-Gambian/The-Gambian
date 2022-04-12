@@ -1,7 +1,7 @@
 **Hi there 👋**
 
-🔭 I’m currently working on some beginner pyhton projects.
-🌱 I’m currently learning computer scince topics.
+🔭 I’m currently working on some beginner Data Science topics.
+🌱 I’m currently learning pyhton.
 👯 I’m looking to collaborate on:
     -Technical Blog Posts
     -Projects related to business analytics
